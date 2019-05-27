@@ -1,3 +1,8 @@
+Kelompok 1 : <br>
+1. Salsabila Maharani Alvananda Herlambang (17051204009) <br>
+2. Rosida Pujiati (17051204013) <br>
+3. Esti Ika Maharani (17051204019) <br>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
